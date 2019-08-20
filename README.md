@@ -4,7 +4,7 @@ _Сниппет для Evolution CMS_
 
 Вызов оператора switch в EVO
 
-```ruby
+```
 [[switch?
 &switch=`[*content*]`
 &case:=`@CODE: Поле пусто`
