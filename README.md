@@ -1,11 +1,11 @@
-# switch
+# Switch
 
 _Сниппет для Evolution CMS_
 
 Вызов оператора switch в EVO
 
 ```
-[[switch?
+[[Switch?
 &switch=`[*content*]`
 &case:=`@CODE: Поле пусто`
 &case:123=`@CODE: В поле написано 123`

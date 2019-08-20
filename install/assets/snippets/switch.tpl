@@ -1,13 +1,13 @@
 <?php
 /**
- * switch
+ * Switch
  *
- * Вызов оператора switch
+ * Вызов оператора Switch
  *
  * @category    snippet
  * @version     1.0.0
  * @author      igor <igor@qmedia.by>
- * @reportissues https://github.com/qmedia-dev/switch
+ * @reportissues https://github.com/qmedia-dev/Switch
 
  * @internal    @properties
  * @internal    @modx_category Qmedia
@@ -16,21 +16,21 @@
  */
  
 /**
- * switch
+ * Switch
  *
- * Вызов оператора switch
+ * Вызов оператора Switch
  *
  * @category    snippet
  * @version     1.0.0
  * @author      igor <igor@qmedia.by>
- * @reportissues https://github.com/qmedia-dev/switch
+ * @reportissues https://github.com/qmedia-dev/Switch
 
- * @documentation Документация: https://github.com/qmedia-dev/switch
+ * @documentation Документация: https://github.com/qmedia-dev/Switch
 
  */
 
 /* Usage --------------------------------
-[[switch?
+[[Switch?
 &switch=`[*content*]`
 &case:=`@CODE: Поле пусто`
 &case:123=`@CODE: В поле написано 123`
@@ -38,4 +38,4 @@
 ]]
 ----------------------------------------- */
 
-return require MODX_BASE_PATH . 'assets/snippets/switch/snippet.switch.php';
+return require MODX_BASE_PATH . 'assets/snippets/Switch/snippet.Switch.php';
