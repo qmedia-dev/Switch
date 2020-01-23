@@ -7,9 +7,9 @@ _Сниппет для Evolution CMS_
 ```
 [[Switch?
 &switch=`[*content*]`
-&case:=`@CODE: Поле пусто`
-&case:123=`@CODE: В поле написано 123`
-&default=`@CODE:<div>[*content*]</div>`
+&case:=`Поле пусто`
+&case:123=`В поле написано 123`
+&default=`<div>[*content*]</div>`
 ]]
 ```
 
